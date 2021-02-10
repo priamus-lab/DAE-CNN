@@ -1,5 +1,5 @@
 # DAE-CNN: Exploiting and disentangling contrast agent effects for breast lesions classification in DCE-MRI
-Offical implementation of the DAE-CNN approach for breast lesion classification in DCE-MRI
+Official implementation of the DAE-CNN approach for breast lesion classification in DCE-MRI
 
 
 ### Prerequisites
